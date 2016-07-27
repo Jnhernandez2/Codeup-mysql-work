@@ -1,3 +1,3 @@
 USE employees;
 
-SELECT DISTINCT title FROM titles;
+SELECT DISTINCT title FROM titles ORDER BY title ASC;
